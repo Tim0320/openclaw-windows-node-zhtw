@@ -126,7 +126,7 @@
 
   <!-- Node mode description -->
   <data name="SettingsNodeModeDescription.Text" xml:space="preserve">
-    <value>啟用后，此電腦可以接收來自代理的命令（canvas、截圖等）</value>
+    <value>啟用後，此電腦可以接收來自代理的命令（Canvas、截圖等）</value>
   </data>
 
   <!-- ==================== StatusDetailWindow.xaml ==================== -->
@@ -469,16 +469,16 @@
   <!-- ==================== CanvasWindow.xaml ==================== -->
 
   <data name="WindowTitle_Canvas" xml:space="preserve">
-    <value>canvas</value>
+    <value>Canvas</value>
   </data>
   <data name="CanvasErrorTitle.Text" xml:space="preserve">
-    <value>❌ canvas錯誤</value>
+    <value>❌ Canvas錯誤</value>
   </data>
   <data name="CanvasRetryButton.Content" xml:space="preserve">
     <value>重試</value>
   </data>
   <data name="Canvas_ReadyTitle" xml:space="preserve">
-    <value>🎨 canvas就緒</value>
+    <value>🎨 Canvas就緒</value>
   </data>
   <data name="Canvas_WaitingForContent" xml:space="preserve">
     <value>等待內容...</value>
@@ -561,7 +561,7 @@
     <value>🔌 節點模式已啟用</value>
   </data>
   <data name="Toast_NodeModeActiveDetail" xml:space="preserve">
-    <value>此電腦現在可以接收來自代理的命令（canvas、截圖）</value>
+    <value>此電腦現在可以接收來自代理的命令（Canvas、截圖）</value>
   </data>
   <data name="Toast_PairingPending" xml:space="preserve">
     <value>⏳ 等待配對批準</value>
